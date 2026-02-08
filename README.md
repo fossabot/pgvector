@@ -12,6 +12,7 @@ Store your vectors with the rest of your data. Supports:
 Plus [ACID](https://en.wikipedia.org/wiki/ACID) compliance, point-in-time recovery, JOINs, and all of the other [great features](https://www.postgresql.org/about/) of Postgres
 
 [![Build Status](https://github.com/pgvector/pgvector/actions/workflows/build.yml/badge.svg)](https://github.com/pgvector/pgvector/actions)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fpgvector.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fpgvector?ref=badge_shield)
 
 ## Installation
 
@@ -1335,3 +1336,7 @@ Resources for contributors
 - [Extension Building Infrastructure](https://www.postgresql.org/docs/current/extend-pgxs.html)
 - [Index Access Method Interface Definition](https://www.postgresql.org/docs/current/indexam.html)
 - [Generic WAL Records](https://www.postgresql.org/docs/current/generic-wal.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fpgvector.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fpgvector?ref=badge_large)
